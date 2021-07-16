@@ -25,3 +25,5 @@ defaults:
     values:
       layout: "default"
       image: "/assets/images/logo.png"
+
+theme: jekyll-theme-cayman
